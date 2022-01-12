@@ -1,0 +1,1 @@
+/home/fshodzoncy/robotic_arm/devel/.private/panda_moveit_config/lib/pkgconfig/panda_moveit_config.pc

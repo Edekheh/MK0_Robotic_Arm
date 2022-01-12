@@ -1,0 +1,19 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _moveo_moveit_generate_messages_check_deps_ArmJointState
+[  0%] Built target sensor_msgs_generate_messages_eus
+[ 18%] Built target move_group_1
+[ 18%] Built target sensor_msgs_generate_messages_py
+[ 18%] Built target std_msgs_generate_messages_py
+[ 18%] Built target sensor_msgs_generate_messages_lisp
+[ 18%] Built target std_msgs_generate_messages_lisp
+[ 18%] Built target sensor_msgs_generate_messages_nodejs
+[ 18%] Built target std_msgs_generate_messages_nodejs
+[ 36%] Built target moveo_moveit_generate_messages_cpp
+[ 45%] Built target moveo_moveit_generate_messages_eus
+[ 63%] Built target moveo_moveit_generate_messages_py
+[ 72%] Built target moveo_moveit_generate_messages_lisp
+[ 81%] Built target moveo_moveit_generate_messages_nodejs
+[100%] Built target moveit_convert
+[100%] Built target moveo_moveit_generate_messages

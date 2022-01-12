@@ -1,0 +1,16 @@
+[35m[1mScanning dependencies of target robot_model_and_robot_state_tutorial[0m
+[  7%] Built target planning_scene_tutorial
+[ 10%] [32mBuilding CXX object doc/robot_model_and_robot_state/CMakeFiles/robot_model_and_robot_state_tutorial.dir/src/robot_model_and_robot_state_tutorial.cpp.o[0m
+[ 17%] Built target ros_api_tutorial
+[ 25%] Built target planning_scene_ros_api_tutorial
+[ 32%] Built target motion_planning_api_tutorial
+[ 39%] Built target motion_planning_pipeline_tutorial
+[ 53%] Built target interactivity_utils
+[ 64%] Built target state_display_tutorial
+[ 67%] Built target move_group_interface_tutorial
+[ 75%] Built target pick_place_tutorial
+[ 82%] Built target bag_publisher_maintain_time
+[ 89%] Built target cylinder_segment
+[ 96%] Built target visualizing_collisions_tutorial
+[100%] [32m[1mLinking CXX executable /home/fshodzoncy/robotic_arm/devel/.private/moveit_tutorials/lib/moveit_tutorials/robot_model_and_robot_state_tutorial[0m
+[100%] Built target robot_model_and_robot_state_tutorial

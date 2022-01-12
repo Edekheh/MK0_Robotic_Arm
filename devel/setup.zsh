@@ -1,0 +1,1 @@
+/home/fshodzoncy/robotic_arm/devel/.private/catkin_tools_prebuild/setup.zsh

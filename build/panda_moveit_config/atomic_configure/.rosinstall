@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fshodzoncy/robotic_arm/devel/.private/panda_moveit_config/setup.sh

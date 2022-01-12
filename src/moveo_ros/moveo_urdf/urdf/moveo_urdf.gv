@@ -1,0 +1,23 @@
+digraph G {
+node [shape=box];
+"base_link" [label="base_link"];
+"Link_1" [label="Link_1"];
+"Link_2" [label="Link_2"];
+"Link_3" [label="Link_3"];
+"Link_4" [label="Link_4"];
+"Link_5" [label="Link_5"];
+"odom" [label="odom"];
+node [shape=ellipse, color=blue, fontcolor=blue];
+"base_link" -> "Joint_1" [label="xyz: 0 0 0.06025 \nrpy: 0 -0 0"]
+"Joint_1" -> "Link_1"
+"Link_1" -> "Joint_2" [label="xyz: 0.290997 0.052245 0.30625 \nrpy: 0 -0 0"]
+"Joint_2" -> "Link_2"
+"Link_2" -> "Joint_3" [label="xyz: 7.3e-05 -0.006 0.296225 \nrpy: 0 -0 0"]
+"Joint_3" -> "Link_3"
+"Link_3" -> "Joint_4" [label="xyz: 0.000504 -0.041347 0.175032 \nrpy: 0 -0 0"]
+"Joint_4" -> "Link_4"
+"Link_4" -> "Joint_5" [label="xyz: -0.00025 0.020499 0.053 \nrpy: 0 -0 0"]
+"Joint_5" -> "Link_5"
+"base_link" -> "odom_joint" [label="xyz: 0 0 0 \nrpy: 0 -0 0"]
+"odom_joint" -> "odom"
+}

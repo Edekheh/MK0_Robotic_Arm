@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fshodzoncy/robotic_arm/devel/.private/catkin_tools_prebuild/setup.sh

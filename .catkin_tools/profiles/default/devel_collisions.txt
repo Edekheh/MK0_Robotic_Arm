@@ -1,0 +1,1 @@
+/home/fshodzoncy/robotic_arm/devel/./cmake.lock 44

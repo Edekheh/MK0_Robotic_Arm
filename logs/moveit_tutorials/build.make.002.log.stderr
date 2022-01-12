@@ -1,0 +1,17 @@
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:297:0[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/joint_model.h:47[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/joint_model_group.h:41[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model/robot_model.h:47[m[K,
+                 from [01m[K/opt/ros/kinetic/include/moveit/robot_model_loader/robot_model_loader.h:41[m[K,
+                 from [01m[K/home/fshodzoncy/robotic_arm/src/moveit_tutorials/doc/interactivity/include/interactivity/interactive_robot.h:43[m[K,
+                 from [01m[K/home/fshodzoncy/robotic_arm/src/moveit_tutorials/doc/interactivity/src/interactive_robot.cpp:39[m[K:
+/usr/include/eigen3/Eigen/src/Geometry/Transform.h: In instantiation of ‘[01m[KEigen::Transform<Scalar, Dim, Mode, _Options>::Transform(const Eigen::Transform<_Scalar, Dim, OtherMode, OtherOptions>&) [with int OtherMode = 2; int OtherOptions = 0; _Scalar = double; int _Dim = 3; int _Mode = 1; int _Options = 0][m[K’:
+[01m[K/home/fshodzoncy/robotic_arm/src/moveit_tutorials/doc/interactivity/src/interactive_robot.cpp:88:32:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Transform.h:330:5:[m[K [01;31m[Kerror: [m[Kstatic assertion failed: YOU_PERFORMED_AN_INVALID_TRANSFORMATION_CONVERSION
+     EIGEN_STATIC_ASSERT(EIGEN_IMPLIES(OtherMode==int(Affine)||OtherMode==int(AffineCompact), Mode!=int(Isometry)),
+[01;32m[K     ^[m[K
+make[2]: *** [doc/interactivity/CMakeFiles/interactivity_utils.dir/src/interactive_robot.cpp.o] Error 1
+make[1]: *** [doc/interactivity/CMakeFiles/interactivity_utils.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2

@@ -1,0 +1,6 @@
+devel_space: /home/fshodzoncy/robotic_arm/devel
+install: false
+install_space: /home/fshodzoncy/robotic_arm/install
+profile: default
+source_space: /home/fshodzoncy/robotic_arm/src
+workspace: /home/fshodzoncy/robotic_arm

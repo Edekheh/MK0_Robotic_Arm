@@ -1,0 +1,12 @@
+Symlinking /home/fshodzoncy/robotic_arm/devel/./local_setup.zsh
+Symlinking /home/fshodzoncy/robotic_arm/devel/./local_setup.bash
+Symlinking /home/fshodzoncy/robotic_arm/devel/./setup.bash
+Symlinking /home/fshodzoncy/robotic_arm/devel/./setup.zsh
+Symlinking /home/fshodzoncy/robotic_arm/devel/./local_setup.sh
+Symlinking /home/fshodzoncy/robotic_arm/devel/./cmake.lock
+Symlinking /home/fshodzoncy/robotic_arm/devel/./setup.sh
+Symlinking /home/fshodzoncy/robotic_arm/devel/./_setup_util.py
+Symlinking /home/fshodzoncy/robotic_arm/devel/./env.sh
+Symlinking /home/fshodzoncy/robotic_arm/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/fshodzoncy/robotic_arm/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/fshodzoncy/robotic_arm/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

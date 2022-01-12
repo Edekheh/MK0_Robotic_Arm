@@ -1,0 +1,1 @@
+/home/fshodzoncy/robotic_arm/devel/.private/moveo_urdf/share/moveo_urdf/cmake/moveo_urdfConfig.cmake
